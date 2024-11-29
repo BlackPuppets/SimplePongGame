@@ -11,8 +11,6 @@ public class EnemyPaddleController : MonoBehaviour
 
     private GameObject ball;
 
-
-    // Código mt foda meu
     // Start is called before the first frame update
     void Start()
     {
